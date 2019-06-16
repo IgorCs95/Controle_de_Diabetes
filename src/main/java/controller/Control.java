@@ -69,8 +69,6 @@ public class Control {
 							resultado = "alto(15/5)";
 						}
 					}
-				} else{
-					resultado = "ideal(1)";
 				}
 			}else {
 				if(p.getPilates()>0) {
